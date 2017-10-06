@@ -1,0 +1,28 @@
+body {
+	text-align: center;/* para alinear texto e imagenes del body al centro de la pagina*/
+
+
+}
+.cuadrado-color{
+	/*background-color:blue;*/
+	/*background-color: #170B3B; color con codigo hezadecimal*/
+	background-color: rgb(60,12,145);
+	padding-bottom: 40px;/*dar espacio*/
+
+}
+p{
+	color: green;
+	font-family: 'Oswald';
+}
+/*
+img{cambiando tamaño ambas fotos
+		width: 300px;cambiar tamaño de ancho
+		height: 100px;cambiar tamaño alto
+	}*/
+.foto-titulo{
+		width: 400px;
+		height: 300px;
+	}
+.enlaces{
+	border-top: 1px solid black;/*agregar linea el body*/
+}
